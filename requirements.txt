@@ -1,0 +1,10 @@
+apache-airflow[amazon]
+apache-airflow[google]
+boto3
+requests
+apache-airflow-providers-google
+pandas
+numpy
+apache-airflow-providers-mysql
+pymysql
+geopy
